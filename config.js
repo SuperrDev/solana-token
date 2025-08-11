@@ -12,13 +12,13 @@ window.pinata_secret_api_key =
 window.pinata_api_key = "66df83ef9c6622e31056"; // pinata api key
 
 // footer social links
-window.footer_twitter = "https://x.com/coinblastfun";
-window.footer_discord = "https://discord.com/invite/xxxx";
-window.footer_telegram = "https://t.me/coinblastfun";
+window.footer_twitter = "https://x.com/";
+window.footer_discord = "https://discord.com/";
+window.footer_telegram = "https://t.me/";
 
 // branding
-window.project_name = "CoinBlast";
-window.project_domain = "coinblast.fun";
+window.project_name = "SuperrSol";
+window.project_domain = "Superrsol.fun";
 
 window.disclaimer =
   "coinblast.fun is a token creation platform that allows users to generate Solana-based tokens instantly, with no coding required. coinblast.fun does not issue, endorse, manage, or provide liquidity for any tokens created using our service. We do not provide financial advice, investment recommendations, or guarantees of value, price, or returns on any tokens. Tokens created on coinblast.fun are not securities, and users are solely responsible for ensuring compliance with applicable laws and regulations in their jurisdiction. coinblast.fun does not facilitate token trading, fundraising, or liquidity provision. By using coinblast.fun, you acknowledge that creating and trading tokens carry significant risks, including loss of funds, market volatility, and regulatory uncertainty. coinblast.fun is provided 'as is' without warranties of any kind. We are not responsible for any outcomes related to the use of our platform. By using coinblast.fun, you accept full responsibility for your actions and any consequences that may arise. Always conduct your own due diligence before engaging with any token or project.";
