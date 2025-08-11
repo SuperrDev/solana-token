@@ -1,6 +1,6 @@
 // main config
-window.trending_api = "https://memetoolz.fun/api/trending"; // trending api
-window.solprice_api = "https://memetoolz.fun/api/solprice"; // sol price api
+window.trending_api = "https://api.dexscreener.com/latest/dex/tokens/So11111111111111111111111111111111111111112"; // SOL price from DexScreener
+window.solprice_api = "https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd"; // SOL price from CoinGecko
 window.recipient = "65iosh1ReLr1AK8Fozdddtuj9svyax3BqYmWR5yE1QDz"; // fee recipient address
 window.base_fee = 0; // base fee (transfer to recipient address)
 window.price = 0; // optional feature fee price (transfer to recipient address)
